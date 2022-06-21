@@ -1,0 +1,297 @@
+
+
+@font-face{
+    font-family:"Aeonik";	
+    src: url(AeonikTRIAL-Regular.otf);
+ 
+}
+*{
+	font-family:Aeonik;
+	
+}
+
+
+.banner{
+	width: 100%;
+	height: 681px; 
+	position: relative;
+}
+
+.banner img{
+	width: 100%;
+	height: 681px; 
+	margin-top: 0px;
+    margin-bottom: 0px;
+	
+}
+.banner_tilte{
+	font-family: 'Libre Bodoni';
+	font-size:64px;
+	color:#FFFFFF;
+	letter-spacing: 1px;
+	position: absolute;
+	top:17%;
+	left: 5%;
+	
+}
+
+
+.banner_content{
+	font-size:15px;
+	letter-spacing:0;
+	position:absolute;
+	top:83%;
+	left:63%;
+	
+	
+}
+
+.banner_content_oolong{
+	color:#FFFFFF;
+	font-size:15px;
+	letter-spacing:0;
+	position:absolute;
+	top:63%;
+	left:63%;
+}
+.banner_content_oolong_1{
+	color:#FFFFFF;
+	font-size:15px;
+	letter-spacing:0;
+	position:absolute;
+	top:73%;
+	left:63%;
+}
+
+
+
+.test{
+	display: flex;
+   flex-wrap: no-wrap;
+}
+.test div div{
+	
+}
+
+.intr_title {
+	font-size:24px;
+	font-weight:bold;
+	text-align: center;
+	
+}
+
+
+.intr_context{
+	font-size:15px;	
+	text-align: center;
+	
+}
+
+
+
+.tea_icon{
+	width:331px;
+	height:331px;
+	 display: block;
+	margin-left: auto;
+	margin-right: auto;
+  
+}
+
+.
+
+
+
+
+
+
+
+
+
+p{margin:0} 
+
+.mkt_title{
+	font-size:48px;
+	text-align: center;
+	font-family: 'Libre Bodoni';
+	
+}
+.mkt_title_2{
+	font-size:15px;
+	text-align: center;
+	letter-spacing:1;
+}
+
+
+
+.arrow_div{
+	justify-content: center;
+}
+.arrow_div div{
+	text-align: center;
+	margin: 0 auto;
+	position: relative;
+	 
+}
+
+
+
+.arrow{	
+	position: relative;
+	top: -2px;
+	left: 0px;
+}
+
+.mktea{
+	font-size:24px;
+	display: inline;	
+	text-align: center;
+}
+
+.mktea:hover{
+	text-decoration:underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.mkt_display{
+	
+}
+
+.mkt_steps{
+	width: 333px;
+	height: 309px; 
+	display:;	
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	font-weight:bold;
+}
+
+
+.mkt_steps_2{
+	width: 333px;
+	height: 309px; 
+	display:none;	
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	font-weight:bold;
+}
+
+
+
+
+
+.mkt_s_title{
+	font-size:96px;
+	margin:1px auto;
+}
+
+
+
+.mkt_img{
+	width: 50px;
+	height: 50px; 
+}
+.mkt_img_1{
+	width: 45px;
+	height: 45px; 
+}
+
+
+
+
+
+.mkt_steps span {
+	text-align: center;
+	font-weight:bold;
+}
+
+.mkt_steps_2 span {
+	text-align: center;
+	font-weight:bold;
+}
+
+
+
+
+
+
+
+.blk_product{	
+	
+	display:flex;
+	justify-content: space-around;
+	
+}
+
+
+
+
+.blk_margin{
+	position: relative;	
+	width: 33%;
+	height:auto;
+	margin-left:2px;
+}
+.blk_product div img{
+	position: absolute;	
+}
+.blkp_img{
+	position: relative;	
+	top:-170px;
+	left:38px;
+}
+
+
+.olkp_img{
+	position: relative;	
+	top:-170px;
+	left:38px;
+}
+
+
+
+.div_center
+{
+		text-align: center;
+		margin-bottom:50px;
+}
+
+
+
+.bottom_product{
+	width:199px;
+	height:337px;
+	
+}
+
+
+.empty{
+	height:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
